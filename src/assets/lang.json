@@ -1,0 +1,71 @@
+{
+  "en": {
+    "translation": {
+      "home": "Home",
+      "about": "About",
+      "products": "Products",
+      "h1": "We are changing the way people shop",
+      "ourProd": "OUR PRODUCTS",
+      "search": "Search product",
+      "feautProds": "Featured Products",
+      "category": "Select category",
+      "company": "Select company",
+      "sort": "Sort by",
+      "price": "Select Price",
+      "freeShip": "Free Shipping",
+      "searchBtn": "Search",
+      "reset": "Reset",
+      "weLove": "We love",
+      "shoppingCart": "Shopping Cart",
+      "shoppingCartEmp": "Your cart is empty",
+      "cart": "Cart",
+      "lorem": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore quae quam blanditiis vitae, dolor non eveniet ipsum voluptatibus, quia optio aut! Perferendis ipsa cumque ipsam nostrum reprehenderit ad illo sed officiis ea tempore! Similique eos minima sit porro, ratione aspernatur!"
+    }
+  },
+  "ru": {
+    "translation": {
+      "home": "Дом",
+      "about": "Про нас",
+      "products": "Продукты",
+      "h1": "Мы меняем способ покупок для людей",
+      "ourProd": "НАШИ ПРОДУКТЫ",
+      "search": "Искать продукт",
+      "feautProds": "Избранные продукты",
+      "category": "Выбрать категорию",
+      "company": "Выбрать компанию",
+      "sort": "Определить по",
+      "price": "Выбрать цену",
+      "freeShip": "бесплатная доставка",
+      "searchBtn": "Искать",
+      "reset": "очистисть",
+      "weLove": "Мы любим",
+      "shoppingCart": "Корзина",
+      "shoppingCartEmp": "Корзина пуста",
+      "cart": "Корзина",
+      "lorem": "Заказчику очень важно обратить внимание на процесс адиписки. В то время, когда а не лесть жизни, боль не будут причинять сами удовольствия, потому что это выбор или! Но когда она обвиняет нас в этом, она это стерпит. услуги вовремя! Точно так же, пусть он будет самым маленьким, его раздражает разум!"
+    }
+  },
+  "uz": {
+    "translation": {
+      "home": "Asosiy sahifa",
+      "about": "biz haqimizda",
+      "products": "Mahsulotlar",
+      "h1": "Biz sotuv yolini ozgartiramiz",
+      "ourProd": "BIZNING MAHSULOTLAR",
+      "search": "Mahsulotni izlash",
+      "feautProds": "Tanlangan mahsulotlar",
+      "category": "Kategoriya tanlash",
+      "company": "Kompaniya tanlash",
+      "sort": "Saralash",
+      "price": "narh tanlash",
+      "freeShip": "Bepul yetkazilishi",
+      "searchBtn": "Izlash",
+      "reset": "Tozalash",
+      "weLove": "Bizga yoqadi",
+      "shoppingCart": "do'kon savati",
+      "shoppingCartEmp": "do'kon savati bosh",
+      "cart": "Sa'vat",
+      "lorem": "Mijoz uchun adipissing jarayoniga e'tibor berish juda muhimdir. O'sha paytda  Hayotning xushomadgo'yligidan ko'ra, og'riq zavqning o'zidan kelib chiqmaydi, chunki bu tanlovdir  yoki! Lekin buning uchun bizni ayblasa, chidaydi  xizmatlar o'z vaqtida! Xuddi shunday, u eng kichigi bo'lsin, u aqlga sig'maydi!"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(240, 246, 255);
+  margin: 0 auto;
+}
+
+.linkHover {
+  transition: all 0.1s ease;
+}
+.linkHover:hover {
+  background-color: #c7c9d1;
+}
+.active {
+  background-color: #021431;
+  color: #c7c9d1;
+}
+
+.active:hover {
+  background-color: #021431;
+  color: #c7c9d1;
+}
